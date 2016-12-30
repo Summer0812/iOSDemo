@@ -30,11 +30,11 @@
     
     
     
-    
-    
+    //ljj
 }
 
 - (void)setTable {
+    //ljj
     _array = [NSArray array];
     _array =  @[@1,@2,@3,@4,@5];
     _showArray =[[NSMutableArray alloc] initWithArray:@[@0,@0,@0,@0,@0]];
